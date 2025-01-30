@@ -1,0 +1,8 @@
+*.csv
+*.jpg
+*.MOV
+*.pt
+
+insightface/
+data/
+weights/
